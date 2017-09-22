@@ -12,6 +12,9 @@ node* head;
 //this is greeeeeaaaaat
 //heeel yeaaah
 
+
+//YAAAAASS LASSSE
+
 n = new node;
 n -> data = 1;
 temp = n;
