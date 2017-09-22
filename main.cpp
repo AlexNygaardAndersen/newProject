@@ -47,6 +47,7 @@ int main()
 
 cout << "Hello World!";
 cout << "Hello Moon!";
+cout << "Hello Terra";
 
 
     return 0;
